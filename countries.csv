@@ -1,0 +1,48 @@
+Name,Population(2020),"Yearly Change","Net Change","Land Area",Regions
+Armenia,2963243,0.0019,5512,28470,Asia
+Qatar,2881053,0.0173,48986,11610,Asia
+Bahrain,1701575,0.0368,60403,760,Asia
+Timor-Leste,1318445,0.0196,25326,14870,Asia
+Cyprus,1207359,0.0073,-8784,9240,Asia
+Bhutan,771608,0.0112,8516,38117,Asia
+Macao,649335,0.0139,8890,30781,Asia
+Maldives,540544,0.0181,9591,300,Asia
+Brunei,437479,0.0097,4194,5270,Asia
+"Western Sahara",597339,0.0255,14876,266000,Africa
+"Cabo Verde",555987,0.011,6052,4030,Africa
+Mayotte,272815,0.025,6665,375,Africa
+"Sao Tome & Principe",219159,0.0191,4103,960,Africa
+Seychelles,98347,0.0062,608,8940,Africa
+"Saint Helena",6077,0.003,-18,390,Africa
+Malta,441543,0.0027,1171,320,Europe
+Iceland,341243,0.0065,2212,100250,Europe
+"Channel Islands",173863,0.0093,1604,190,Europe
+"Isle of Man",85033,0.0053,449,570,Europe
+Andorra,77265,0.0016,123,470,Europe
+"Faeroe Islands",48863,0.0038,185,1396,Europe
+Monaco,39242,0.0071,278,2987,Europe
+Liechtenstein,38128,0.0029,109,160,Europe
+"San Marino",33931,0.0021,71,6081,Europe
+Gibraltar,33691,-0.0003,-10,19092,Europe
+"Holy See",801,0.0025,2,1982,Europe
+"Antigua and Barbuda",97929,0.0084,811,440,"Latin America & Caribbean"
+Dominica,71986,0.0025,178,750,"Latin America & Caribbean"
+"Cayman Islands",65722,0.0119,774,240,"Latin America & Caribbean"
+"Saint Kitts & Nevis",53199,0.0071,376,260,"Latin America & Caribbean"
+"Sint Maarten",42876,0.0115,488,34,"Latin America & Caribbean"
+"Turks and Caicos",38717,0.0138,526,950,"Latin America & Caribbean"
+"Saint Martin",38666,0.0175,664,53,"Latin America & Caribbean"
+"British Virgin Islands",30231,0.0067,201,150,"Latin America & Caribbean"
+"Caribbean Netherlands",26223,0.0094,244,328,"Latin America & Caribbean"
+Anguilla,15003,0.009,134,90,"Latin America & Caribbean"
+Montserrat,4992,0.0006,3,100,"Latin America & Caribbean"
+"Falkland Islands",3480,0.0305,103,12170,"Latin America & Caribbean"
+"United States",331002651,0.0059,1937734,9147420,"Northern America"
+Canada,37742154,0.0089,331107,9093510,"Northern America"
+Bermuda,62278,-0.0036,-228,5021,"Northern America"
+Greenland,56770,0.0017,98,410450,"Northern America"
+"Saint Pierre & Miquelon",5794,-0.0048,-28,230,"Northern America"
+"Wallis & Futuna",11239,-0.0169,-193,140,Oceania
+Nauru,10824,0.0063,68,20,Oceania
+Niue,1626,0.0068,11,260,Oceania
+Tokelau,1357,0.0127,17,10,Oceania
