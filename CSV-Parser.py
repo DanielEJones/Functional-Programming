@@ -1,14 +1,14 @@
-def extract_lines(csv_file: str):
+def extract_lines(csv_file: str) -> list:
     with open(csv_file, 'r') as file:
         return list(file)
 
 
-def transpose(matrix: list[list]):
+def transpose(matrix: list[list]) -> list[list]:
     return list(map(list, zip(*matrix)))
 
 
 def distinct(key=lambda x: x):
-    def filtered(data):
+    def filtered(data: list) -> list:
         return list({key(item): item for item in data}.values())
     return filtered
 
@@ -18,7 +18,7 @@ def reduce(function, sequence, initial=None):
 
 
 def for_each(func):
-    def process(data):
+    def process(data: list) -> list:
         return list(map(func, data))
     return process
 
